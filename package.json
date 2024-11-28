@@ -1,5 +1,6 @@
 {
   "name": "em4100-converter",
+  "homepage": https://diegodangers.github.io/react_em4100-converter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
